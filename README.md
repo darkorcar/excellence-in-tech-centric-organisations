@@ -4,7 +4,7 @@ For Shareholders and product enablers like Business Experts, Project Managers, B
 
 To be able to achieve competitive advantage we need software with high ability to change rapidly. We need shortened delivery and feedback cycles.
 
-Martin Fowler summarised Agile in two main pieces:
+Martin Fowler [summarised](https://martinfowler.com/articles/agile-aus-2018.html) Agile in two main pieces:
 
 1. The primacy of the Team
 2. Ability to change rapidly
